@@ -1,3 +1,3 @@
 # Compiladores
 
-Trabalhos feitos durante a disciplina de Compiladore
+Trabalhos feitos durante a disciplina de Compiladores
