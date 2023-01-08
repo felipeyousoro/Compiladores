@@ -20,11 +20,6 @@
 
 %}
 
-%union {
-    int integer;
-    float real;
-}
-
 %token VOID
 %token INT
 %token CHAR
